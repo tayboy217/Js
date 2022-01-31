@@ -1,1 +1,1 @@
-# Js
+# Quiz Game with JavaScript
